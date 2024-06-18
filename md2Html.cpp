@@ -1,6 +1,4 @@
 #include "md2Html.h"
-#include <regex>
-#include <iostream>
 
 using namespace std;
 
